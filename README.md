@@ -10,3 +10,4 @@
 - [audiobookshelf](https://github.com/UNAS-Third-Party-Applications/audiobookshelf) 基于audiobookshelf实现的U-NAS 6有声书套件
 - [lucky](https://github.com/UNAS-Third-Party-Applications/lucky) 适用于U-NAS 6的lucky套件
 - [gopeed](https://github.com/UNAS-Third-Party-Applications/gopeed) 适用于U-NAS 6的gopeed下载器套件
+- [navidrome](https://github.com/UNAS-Third-Party-Applications/navidrome) 适用于U-NAS 6的navidrome下载器套件
