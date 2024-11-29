@@ -11,3 +11,5 @@
 - [lucky](https://github.com/UNAS-Third-Party-Applications/lucky) 适用于U-NAS 6的lucky套件
 - [gopeed](https://github.com/UNAS-Third-Party-Applications/gopeed) 适用于U-NAS 6的gopeed下载器套件
 - [navidrome](https://github.com/UNAS-Third-Party-Applications/navidrome) 适用于U-NAS 6的navidrome下载器套件
+- [nvidia-driver-installer](https://github.com/UNAS-Third-Party-Applications/nvidia-driver-installer) 适用于U-NAS 6的英伟达显卡驱动安装器套件
+- [upsnap](https://github.com/UNAS-Third-Party-Applications/upsnap) 适用于U-NAS 6的upsnap局域网唤醒套件
